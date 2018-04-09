@@ -1,0 +1,47 @@
+[33mcommit 302f5f91173b8f0e588e8ddac2c66fc76e306485[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: VeikoQuiroz <veiko.quiroz@gmail.com>
+Date:   Sun Apr 8 22:04:44 2018 -0500
+
+    Se cambió de nombre a principal.html por princ.html
+
+[33mcommit 20cb4ad94b7bf31ba2b880515833da3919bb826f[m
+Author: VeikoQuiroz <veiko.quiroz@gmail.com>
+Date:   Sun Apr 8 22:01:57 2018 -0500
+
+    Se agregó principal.html
+
+[33mcommit dad72923b5e101a11d60dec73b6fcccc6d46b983[m
+Author: VeikoQuiroz <veiko.quiroz@gmail.com>
+Date:   Sun Apr 8 21:47:10 2018 -0500
+
+    Nueva modificación al index
+
+[33mcommit 54d30bf94c9a5aa6ad390af0a79e73cd24e2bff9[m
+Author: VeikoQuiroz <veiko.quiroz@gmail.com>
+Date:   Sun Apr 8 02:06:44 2018 -0500
+
+    Se agregó contenido a la carpeta css
+
+[33mcommit 0a4f79581c2378e9819137072b7bbbe32c5a465f[m
+Author: VeikoQuiroz <veiko.quiroz@gmail.com>
+Date:   Sun Apr 8 01:58:42 2018 -0500
+
+    Se agregó validacion.js
+
+[33mcommit d068cf35cdf686d914bab173cd371149b1aebc37[m
+Author: VeikoQuiroz <veiko.quiroz@gmail.com>
+Date:   Sun Apr 8 01:57:26 2018 -0500
+
+    Se modificó el index.html
+
+[33mcommit 553bc8854fa57ce665bd911a56edbcb05759ec1a[m
+Author: VeikoQuiroz <veiko.quiroz@gmail.com>
+Date:   Sun Apr 8 01:47:58 2018 -0500
+
+    Segunda modificación
+
+[33mcommit aadf0a45003c51c07b463d8dbd94aac773c6ed8c[m
+Author: VeikoQuiroz <veiko.quiroz@gmail.com>
+Date:   Sun Apr 8 01:37:56 2018 -0500
+
+    Commit Inicial
